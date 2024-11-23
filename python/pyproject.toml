@@ -1,0 +1,18 @@
+[tool.poetry]
+name = "content-extraction"
+version = "0.1.0"
+description = "PDF Content Extraction"
+authors = ["Aowss Ibrahim <aowss@yahoo.com>"]
+readme = "README.md"
+packages = [{include = "content-extraction"}]
+
+[tool.poetry.dependencies]
+python = "^3.12"
+pdfquery = "^0.4.3"
+pypdf = "^5.1.0"
+lxml = "^5.3.0"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
