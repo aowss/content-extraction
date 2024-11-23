@@ -11,6 +11,7 @@ python = "^3.12"
 pdfquery = "^0.4.3"
 pypdf = "^5.1.0"
 lxml = "^5.3.0"
+amazon-textract-textractor = { extras = ["pdfium"], version = "^1.8.5" }
 
 
 [build-system]
