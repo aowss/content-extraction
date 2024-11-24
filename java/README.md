@@ -12,4 +12,5 @@
 ## Libraries
 
 * [`Apache Tika`](https://tika.apache.org/)
+* [`Apache PDFBox`](https://pdfbox.apache.org/)
 

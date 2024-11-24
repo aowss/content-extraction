@@ -34,21 +34,6 @@ class Main {
                 result += stripper.getText(document).trim();
             }
             output.write(result);
-//            PDDocumentCatalog catalog = document.getDocumentCatalog();
-//            PDAcroForm form = catalog.getAcroForm();
-//            List<PDField> fields = form.getFields();
-//
-//            for(PDField field: fields) {
-//                Object value = field.getValueAsString();
-//                String name = field.getFullyQualifiedName();
-//                System.out.print(name);
-//                System.out.print(" = ");
-//                System.out.print(value);
-//                System.out.println();
-//            }
-//            for (PDPage page : document.getPages()) {
-//                // process
-//            }
         }
     }
 }
