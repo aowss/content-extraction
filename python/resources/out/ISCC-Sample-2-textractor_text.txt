@@ -1,0 +1,292 @@
+Sustainability Declaration according to ISCC PLUS
+
+
+V1.1
+
+
+Unique Number of
+
+
+455417
+
+
+Sustainability Declaration:
+
+
+ISCC
+
+
+Place and date of dispatch
+
+
+Nyborg, March 3. 2021
+
+
+International Sustainability
+
+
+Et Carbon Certification
+
+
+Date of Issuance
+
+
+March 3. 2021
+
+
+Supplier
+
+
+Recipient
+
+
+Name:
+
+
+Name:
+
+
+Trioworld Nyborg A/S
+
+
+Dorr-Biomassehof GmbH & Co. K
+
+
+Address:
+
+
+Address:
+
+
+Taasingevej 1
+
+
+DK-5800 Nyborg
+
+
+Riederau 1
+
+
+Denmark
+
+
+D-87437 Kempten
+
+
+Certificate Number:
+
+
+Contract Number:
+
+
+ISCC-PLUS-Cert-PL214-78850919
+
+
+1. General information
+
+
+Type of Product:
+
+
+Processed material
+
+
+(e.g. raw material, crude oil)
+
+
+Type of Raw Material
+
+
+HVO (Palm) Sugar cane
+
+
+Additional Information:
+
+
+FFS-FILM
+
+
+Content of bio-allocated PE 97,2 % of 1,368 mt netweight
+
+
+Country of Origin (of the
+
+
+Indonesia Brazil
+
+
+raw material):
+
+
+Quantity:
+
+
+1,330
+
+
+mt
+
+
+metric tons
+
+
+m³
+
+
+3
+
+
+Chain of custody option
+
+
+Mass balance
+
+
+2. Sustainability criteria
+
+
+The raw material
+
+
+complies with ISCC System Document 202 "Sustainability Requirements" or
+
+
+meets the definition of waste and residue
+
+
+The raw material complies with the sustainability criteria according to the ISCC requirements as laid down
+
+
+in the ISCC System Document 202 "Sustainability Requirements"
+
+
+*
+
+
+Compliance with the ISCC sustainability requirements for the production of biomass means that the
+
+
+material is automatically SAI Silver* and FEFAC* compliant
+
+
+3. Voluntary Add-Ons
+
+
+ISCC PLUS (202-01) Environmental Mgt & Biodiversity
+
+
+Yes
+
+
+No
+
+
+ISCC PLUS (202-02) Classified Chemicals
+
+
+Yes
+
+
+No
+
+
+ISCC PLUS (202-03) SAI Gold*
+
+
+Yes
+
+
+No
+
+
+ISCC PLUS (205-01) GHG-Emissions Requirements*
+
+
+Yes
+
+
+No
+
+
+GHG value
+
+
+kg CO2eq/dry-ton
+
+
+Mode of transportation
+
+
+Transportation distance
+
+
+km
+
+
+ISCC PLUS (205-02) Consumables
+
+
+Yes
+
+
+No
+
+
+ISCC PLUS (205-03) Non-GMO Food / Feed
+
+
+Yes
+
+
+No
+
+
+ISCC PLUS (205-04) Non-GMO Technical Markets
+
+
+Yes
+
+
+No
+
+
+4. Information for Deliveries of Biofuels to Japan
+
+
+For deliveries of corn or corn based ethanol from the U.S.:
+
+
+Use of Japanese Default Values for U.S. ethanol (corn)
+
+
+Yes
+
+
+Emissions from Land Use Change are zero (el = 0)
+
+
+Yes
+
+
+For deliveries of sugar cane or sugar cane based ethanol from Brazil:
+
+
+Use of Japanese Default Values for Brazilian ethanol (sugar cane)
+
+
+Yes
+
+
+Emissions from Land Use Change are zero (el = 0)
+
+
+Yes
+
+
+This form is valid without signature. By issuing this Sustainability Declaration, the issuing party guarantees that all information
+
+
+made on this Sustainability Declaration for Raw Materials and Intermediate Products are correct and in compliance with the
+
+
+requirements of ISCC and the RED.

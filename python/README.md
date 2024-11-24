@@ -31,3 +31,6 @@
 * [PDFMiner](https://pypi.org/project/pdfminer/)
 * [Amazon Textract Textractor](https://aws-samples.github.io/amazon-textract-textractor/index.html)
 
+## Resources
+
+* [Textractor Examples](https://aws-samples.github.io/amazon-textract-textractor/examples.html)

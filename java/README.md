@@ -13,4 +13,5 @@
 
 * [`Apache Tika`](https://tika.apache.org/)
 * [`Apache PDFBox`](https://pdfbox.apache.org/)
+* [`iText`](https://github.com/itext/itext-java?tab=readme-ov-file) doesn't seem to have content extraction capabilities ( only content generation )
 
