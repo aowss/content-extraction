@@ -1,0 +1,39 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+
+    <modelVersion>4.0.0</modelVersion>
+
+    <parent>
+        <groupId>com.micasa</groupId>
+        <artifactId>content-extraction</artifactId>
+        <version>0.1.0</version>
+    </parent>
+
+    <artifactId>apache-tika</artifactId>
+    <version>0.1.0</version>
+    <packaging>jar</packaging>
+
+    <name>Content Extraction using Apache Tika</name>
+
+    <properties>
+        <tika.version>3.0.0</tika.version>
+    </properties>
+
+    <dependencies>
+        <dependency>
+            <groupId>org.apache.tika</groupId>
+            <artifactId>tika-core</artifactId>
+            <version>${tika.version}</version>
+        </dependency>
+        <dependency>
+            <groupId>org.apache.tika</groupId>
+            <artifactId>tika-parsers-standard-package</artifactId>
+            <version>${tika.version}</version>
+        </dependency>
+    </dependencies>
+
+    <build>
+        <finalName>content-extraction-tika</finalName>
+    </build>
+
+</project>
