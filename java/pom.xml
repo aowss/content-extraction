@@ -18,6 +18,7 @@
 
     <modules>
         <module>apache-tika</module>
+        <module>apache-pdfbox</module>
     </modules>
 
     <dependencyManagement>

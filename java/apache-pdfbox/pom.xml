@@ -1,0 +1,34 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+
+    <modelVersion>4.0.0</modelVersion>
+
+    <parent>
+        <groupId>com.micasa</groupId>
+        <artifactId>content-extraction</artifactId>
+        <version>0.1.0</version>
+    </parent>
+
+    <artifactId>apache-pdfbox</artifactId>
+    <version>0.1.0</version>
+    <packaging>jar</packaging>
+
+    <name>Content Extraction using Apache PDFBox</name>
+
+    <properties>
+        <pdfbox.version>3.0.3</pdfbox.version>
+    </properties>
+
+    <dependencies>
+        <dependency>
+            <groupId>org.apache.pdfbox</groupId>
+            <artifactId>pdfbox</artifactId>
+            <version>${pdfbox.version}</version>
+        </dependency>
+    </dependencies>
+
+    <build>
+        <finalName>content-extraction-pdfbox</finalName>
+    </build>
+
+</project>
